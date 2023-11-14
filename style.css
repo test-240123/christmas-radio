@@ -3,4 +3,6 @@
 body {
     text-align: center;
     font-family: 'Montserrat';
+    background-image: url('/christmas-radio/bg.png');
+    background-size: 200%;
 }
